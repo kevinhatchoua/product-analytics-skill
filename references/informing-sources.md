@@ -28,7 +28,12 @@ Use these as the canonical references when extending or reviewing `product-analy
 ## UXD productivity skills (contribution pattern)
 
 - [uxd-productivity-skills](https://gitlab.cee.redhat.com/uxd/uxd-productivity-skills)
+- [skills/product-analytics](https://gitlab.cee.redhat.com/uxd/uxd-productivity-skills/-/tree/main/skills/product-analytics) (this skill; MR !55)
 - [skills/contribution-review/SKILL.md](https://gitlab.cee.redhat.com/uxd/uxd-productivity-skills/-/blob/main/skills/contribution-review/SKILL.md)
+
+## Public mirror (GitHub)
+
+- [kevinhatchoua/product-analytics-skill](https://github.com/kevinhatchoua/product-analytics-skill)
 
 ## Jira
 
